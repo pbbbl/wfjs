@@ -41,7 +41,7 @@ const skada = () => {
         });
       };
       e.appendChild(s);
-      console.log('acsb on');
+
       return true;
     };
     return _run();
